@@ -8,7 +8,7 @@ EXERCISE 1 - TirePressureMonitoringSystem
 	
 
 EXERCISE 3 - TurnTicketDispenser
-	DURATION: 01:00H
+	DURATION: 00:45H
 	
 	SOLID PROBLEMS
 	3# Dependency Inversion
