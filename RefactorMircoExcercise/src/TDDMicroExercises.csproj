@@ -65,6 +65,7 @@
     <Compile Include="TirePressureMonitoringSystem\Interfaces\ISensor.cs" />
     <Compile Include="TirePressureMonitoringSystem\Sensor.cs" />
     <Compile Include="TirePressureMonitoringSystem\TirePressureMonitoringSystemUtils.cs" />
+    <Compile Include="TurnTicketDispenser.Tests\TurnTicketDispenserTests.cs" />
     <Compile Include="TurnTicketDispenser\TicketDispenser.cs" />
     <Compile Include="TurnTicketDispenser\TurnNumberSequence.cs" />
     <Compile Include="TurnTicketDispenser\TurnTicket.cs" />
